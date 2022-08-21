@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/home/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+
 # Home 🌎
 Your launchpad and home base. That's here. That's home.
 
